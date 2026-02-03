@@ -19,7 +19,7 @@ And check out the [React bindings](https://github.com/vasturiano/react-force-gra
 
 ## Examples
 
-* [Basic](https://gamersa22.github.io/3d-force-graph/example/basic/) ([source](https://github.com/vasturiano/3d-force-graph/blob/master/example/basic/index.html))
+* [Basic](https://vasturiano.github.io/3d-force-graph/example/basic/) ([source](https://github.com/vasturiano/3d-force-graph/blob/master/example/basic/index.html))
 * [Asynchronous load](https://vasturiano.github.io/3d-force-graph/example/async-load/) ([source](https://github.com/vasturiano/3d-force-graph/blob/master/example/async-load/index.html))
 * [Larger graph (~4k elements)](https://vasturiano.github.io/3d-force-graph/example/large-graph/) ([source](https://github.com/vasturiano/3d-force-graph/blob/master/example/large-graph/index.html))
 * [Directional arrows](https://vasturiano.github.io/3d-force-graph/example/directional-links-arrows/) ([source](https://github.com/vasturiano/3d-force-graph/blob/master/example/directional-links-arrows/index.html))
